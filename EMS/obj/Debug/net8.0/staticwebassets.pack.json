@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Sameer\\source\\repos\\EMS\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EMS.bundle.scp.css",
+      "PackagePath": "staticwebassets\\EMS.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Sameer\\source\\repos\\EMS\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Sameer\\source\\repos\\EMS\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sameer\\source\\repos\\EMS\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sameer\\source\\repos\\EMS\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EMS.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.EMS.props",
+      "PackagePath": "build\\EMS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EMS.props",
+      "PackagePath": "buildMultiTargeting\\EMS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.EMS.props",
+      "PackagePath": "buildTransitive\\EMS.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
